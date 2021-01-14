@@ -1,0 +1,16 @@
+C:\Users\sande\GitHub\playground\oop-csharp\Tests\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sande\GitHub\playground\oop-csharp\Tests\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sande\GitHub\playground\oop-csharp\Tests\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sande\GitHub\playground\oop-csharp\Tests\Acme.CommonTest\bin\Debug\Acme.CommonTest.dll
+C:\Users\sande\GitHub\playground\oop-csharp\Tests\Acme.CommonTest\bin\Debug\Acme.CommonTest.pdb
+C:\Users\sande\GitHub\playground\oop-csharp\Tests\Acme.CommonTest\bin\Debug\Acme.Common.dll
+C:\Users\sande\GitHub\playground\oop-csharp\Tests\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sande\GitHub\playground\oop-csharp\Tests\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sande\GitHub\playground\oop-csharp\Tests\Acme.CommonTest\bin\Debug\Acme.Common.pdb
+C:\Users\sande\GitHub\playground\oop-csharp\Tests\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sande\GitHub\playground\oop-csharp\Tests\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sande\GitHub\playground\oop-csharp\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.csprojAssemblyReference.cache
+C:\Users\sande\GitHub\playground\oop-csharp\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.CoreCompileInputs.cache
+C:\Users\sande\GitHub\playground\oop-csharp\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.CopyComplete
+C:\Users\sande\GitHub\playground\oop-csharp\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.dll
+C:\Users\sande\GitHub\playground\oop-csharp\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.pdb
